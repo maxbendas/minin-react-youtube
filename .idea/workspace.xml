@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="462b77bf-e953-413f-b3a6-e46178f87ba1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/firebase/FirebaseState.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/firebase/firebaseContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/firebase/firebaseReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Alert.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/alert/AlertState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/alert/AlertState.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/alert/alertContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/alert/alertContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/alert/alertReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/alert/alertReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/firebase/FirebaseState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/firebase/FirebaseState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/firebase/firebaseReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/firebase/firebaseReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>

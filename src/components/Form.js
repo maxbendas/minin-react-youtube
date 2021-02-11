@@ -10,7 +10,11 @@ const Form = () => {
     const submitHandler = (e)=>{
         e.preventDefault()
         if (value.trim()){
-            alert.show(' Заметка была создана', 'success')
+            firebase.addNote(value.trim()).then(()=>{
+                alert.show(' Заметка была создана', 'success')
+            }).catch(()=>{
+                alert.show(' Что-то пошло не так', 'danger')
+            })
             setValue('')
         } else{
             alert.show(' Введите название заметки')
